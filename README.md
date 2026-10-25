@@ -1,4 +1,4 @@
-# Image Segmentation EfficientSAM Reproductions
+# Image Segmentation EfficientSAM Reproduction
 This repository reproduces and evaluates the **EfficientSAM** framework.
 The project includes:
 - EfficientSAM-Ti and EfficientSAM-S inference
